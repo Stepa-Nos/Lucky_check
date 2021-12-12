@@ -43,4 +43,5 @@ func main () {
 		fmt.Println("Вау, твоя удача - это нечто! Ты проиграл :( ")
 		fmt.Println("Моё число было", my_random_number, "\n")
 	}
+
 }
