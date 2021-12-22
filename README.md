@@ -8,7 +8,7 @@ _Особенности этой программы с которыми я ст�
 * Условие для правильного срабатывания проигрыша
 ---
 ## Реализация программы ⚡
-![photo](https://github.com/Stepa-Nos/Lucky_check/blob/main/Lucky_check_photo.png?raw=true)
+![photo](https://github.com/Stepa-Nos/Lucky_test/blob/main/Lucky_test_photo.png?raw=true)
 
 --- 
 ## Сама программа  👾
